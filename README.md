@@ -1,1 +1,3 @@
-# testing-react-1
+# Assignment Template
+
+Provide instructions here for the student.
